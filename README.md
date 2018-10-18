@@ -1,6 +1,6 @@
-<h2>为一个本地项目添加github管理</h2>
+  <h2>为一个本地项目添加github管理</h2>
 
-<blockquote>
+
   <p>git init</p>
   
   <h2>然后把该目录下的文件都加到git本地管理中(git add .)</h2>
